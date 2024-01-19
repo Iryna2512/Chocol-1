@@ -1,0 +1,186 @@
+body {
+    font-family: Montserrat, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+/*======header========*/
+.header-logo {
+    color: #111;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: -0.03em;
+}
+
+.header-logo-italic {
+    font-style: italic;
+}
+
+.header-menu-link {
+    color: #111;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: -0.02em;
+}
+
+/*======================*/
+/*======hero============*/
+.hero {
+    background: rgba(17, 17, 17, 0.60);
+}
+
+.hero-title {
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 1.21;
+    letter-spacing: -0.03em;
+}
+
+.hero-btn {
+    color: #FFF;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.hero-made-link {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.hero-scrol-link {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.29;
+    letter-spacing: -0.03em;
+}
+
+/*======================*/
+
+/*=======features=======*/
+
+.Features {
+    background-color: #1E1823;
+}
+
+.Features-list {}
+
+.Features-item {}
+
+.Features-subtitle {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.Features-item-text {
+    color: rgba(255, 255, 255, 0.70);
+    font-size: 14px;
+    line-height: 1.28;
+    letter-spacing: -0.02em;
+}
+
+/*=======================*/
+
+/*=======taste===========*/
+
+.taste {}
+
+
+.taste-title {
+    color: #111;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.17;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
+
+
+.taste-title span {
+    color: #FD9222;
+}
+
+.taste-text {
+    color: #111;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+}
+
+
+.taste-list {}
+
+
+.taste-item {}
+
+
+.taste-picture {}
+
+
+.taste-subtitle {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.29 letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
+
+
+/*========================*/
+
+
+/*==========made==========*/
+
+
+.made {}
+
+
+.made-title {}
+
+
+.made-image {}
+
+
+.made-subtitle {}
+
+
+.made-list {}
+
+
+.made-item {}
+
+
+.made-item-text {}
+
+/*=======================*/
